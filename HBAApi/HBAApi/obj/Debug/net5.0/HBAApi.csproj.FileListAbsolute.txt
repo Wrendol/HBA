@@ -19,7 +19,6 @@ C:\Users\AlexeySikirzhitsky\Documents\Trainings\HBA\HBAApi\HBAApi\bin\Debug\net5
 C:\Users\AlexeySikirzhitsky\Documents\Trainings\HBA\HBAApi\HBAApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\AlexeySikirzhitsky\Documents\Trainings\HBA\HBAApi\HBAApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\AlexeySikirzhitsky\Documents\Trainings\HBA\HBAApi\HBAApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\AlexeySikirzhitsky\Documents\Trainings\HBA\HBAApi\HBAApi\obj\Debug\net5.0\HBAApi.csprojAssemblyReference.cache
 C:\Users\AlexeySikirzhitsky\Documents\Trainings\HBA\HBAApi\HBAApi\obj\Debug\net5.0\HBAApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\AlexeySikirzhitsky\Documents\Trainings\HBA\HBAApi\HBAApi\obj\Debug\net5.0\HBAApi.AssemblyInfoInputs.cache
 C:\Users\AlexeySikirzhitsky\Documents\Trainings\HBA\HBAApi\HBAApi\obj\Debug\net5.0\HBAApi.AssemblyInfo.cs
